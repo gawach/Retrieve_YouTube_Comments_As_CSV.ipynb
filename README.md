@@ -1,6 +1,6 @@
-# Retrieve_YouTube_Comments_As_CSV.ipynb
-For a reunion to unforgettable Youtube comments.
+# 使用方法
+## 以下2つの定数に値を代入することで、使用できます。
 
-# 以下2の定数に値を代入することで、使用できます。
 DEVELOPER_KEY = "[YOUTUBE_API_KEY]"
+
 VIDEO_ID = "[VIDEO_ID]"
